@@ -1,5 +1,5 @@
-console.log('custom.js ----')
+console.log(
+    '%cbuild from PakePlus： https://github.com/Sjj1024/PakePlus',
+    'color:orangered;font-weight:bolder'
+)
 
-window.addEventListener('DOMContentLoaded', () => {
-    console.log('DOMContentLoaded')
-})
